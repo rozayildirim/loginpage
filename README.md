@@ -1,4 +1,4 @@
-![login page template](D:\\projects_photos\\loginpage.png)
+![login page template](D:/projects_photos/loginpage.png)
 
 
 
